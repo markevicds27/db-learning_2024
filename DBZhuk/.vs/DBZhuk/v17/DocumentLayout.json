@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\sportclubtrenerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\sportclubtrenerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|c:\\main\\code\\4\u043A\u0443\u0440\u0441\\db\\\u0436\u0443\u043A\\dbzhuk\\dbzhuk\\sorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\sorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\sorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\sorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\sportclubtrenerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\sportclubtrenerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\sportsmantrenerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\sportsmantrenerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\sportsmantrenerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\sportsmantrenerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\trspmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\trspmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\trsclform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\trsclform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\trspmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\trspmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\addsclform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\addsclform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\spmfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\spmfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\typeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\typeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\trform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\trform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\stform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\stform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\sportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\sportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\sportclubsportsmanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\sportclubsportsmanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\sclfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\sclfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\orgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\orgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\addtr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\addtr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\addsportsmanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\addsportsmanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\addsportclubform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\addsportclubform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\addspmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\addspmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\dbzhuk\\addsorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3F048C-B301-4CEA-8A73-2F7AB8B89FB5}|DBZhuk\\DBZhuk.csproj|solutionrelative:dbzhuk\\addsorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SorForm.cs",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SorForm.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\SorForm.cs",
+              "ToolTip": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SorForm.cs",
+              "RelativeToolTip": "DBZhuk\\SorForm.cs",
+              "ViewState": "AgIAAHQBAAAAAAAAAAAkwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T08:03:15.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SportclubTrenerForm.cs",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SportclubTrenerForm.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\SportclubTrenerForm.cs",
+              "ToolTip": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SportclubTrenerForm.cs",
+              "RelativeToolTip": "DBZhuk\\SportclubTrenerForm.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAswFIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:59:52.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SportsmanTrenerForm.cs",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SportsmanTrenerForm.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\SportsmanTrenerForm.cs",
+              "ToolTip": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SportsmanTrenerForm.cs",
+              "RelativeToolTip": "DBZhuk\\SportsmanTrenerForm.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswFEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:57:10.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "trSpmForm.cs",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\trSpmForm.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\trSpmForm.cs",
+              "ToolTip": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\trSpmForm.cs",
+              "RelativeToolTip": "DBZhuk\\trSpmForm.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAwGgAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:49:17.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TypeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\TypeForm.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\TypeForm.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\TypeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\TypeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:38:46.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "trSpmForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\trSpmForm.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\trSpmForm.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\trSpmForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\trSpmForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:38:44.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "trSclForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\trSclForm.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\trSclForm.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\trSclForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\trSclForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:38:42.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\TrForm.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\TrForm.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\TrForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\TrForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:38:41.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\StForm.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\StForm.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\StForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\StForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:38:39.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SportsmanTrenerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SportsmanTrenerForm.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\SportsmanTrenerForm.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SportsmanTrenerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SportsmanTrenerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:38:38.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SportForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SportForm.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\SportForm.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SportForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SportForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:38:36.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SportclubTrenerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SportclubTrenerForm.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\SportclubTrenerForm.cs",
+              "ToolTip": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SportclubTrenerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "DBZhuk\\SportclubTrenerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:38:33.268Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "sportclubSportsmanForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\sportclubSportsmanForm.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\sportclubSportsmanForm.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\sportclubSportsmanForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\sportclubSportsmanForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:38:28.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpmFrom.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SpmFrom.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\SpmFrom.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SpmFrom.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SpmFrom.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:38:26.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SorForm.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\SorForm.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:38:21.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SclFrom.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SclFrom.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\SclFrom.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SclFrom.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\SclFrom.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:38:19.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrgForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\OrgForm.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\OrgForm.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\OrgForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\OrgForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:38:16.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddTr.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\AddTr.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\AddTr.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\AddTr.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\AddTr.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:38:13.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddSportsmanForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\AddSportsmanForm.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\AddSportsmanForm.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\AddSportsmanForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\AddSportsmanForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:38:11.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddSportclubForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\AddSportclubForm.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\AddSportclubForm.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\AddSportclubForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\AddSportclubForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:38:08.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddSpmForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\AddSpmForm.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\AddSpmForm.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\AddSpmForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\AddSpmForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:38:06.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddSorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\AddSorForm.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\AddSorForm.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\AddSorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\AddSorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:38:04.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddSclForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Main\\code\\4\u043A\u0443\u0440\u0441\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\AddSclForm.cs",
+              "RelativeDocumentMoniker": "DBZhuk\\AddSclForm.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\AddSclForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430 \u041C\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\Desktop\\DB\\\u0416\u0443\u043A\\DBZhuk\\DBZhuk\\AddSclForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:38:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
